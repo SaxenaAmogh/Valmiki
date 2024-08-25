@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321698636985",
+    "project_id": "valmiki-b98b3",
+    "storage_bucket": "valmiki-b98b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321698636985:android:b8e9d2e9e86f4347de6768",
+        "android_client_info": {
+          "package_name": "com.example.projectsphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321698636985-i57fl38fuquivt69bruv5r39q88qlndd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectsphere",
+            "certificate_hash": "e32ff1cb495ab09e0cdd5aa7b8255588484481c4"
+          }
+        },
+        {
+          "client_id": "321698636985-h0e7ec5vuh4bj5573ij8ma0n3vgph00s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQZRESBQrYECXhGSUhc3Tr0nDsWbmJ4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321698636985-h0e7ec5vuh4bj5573ij8ma0n3vgph00s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

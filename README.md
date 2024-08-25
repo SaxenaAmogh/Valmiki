@@ -30,6 +30,9 @@ Our team faced several challenges throughout the development process:
 - Implemented real-time data handling and user authentication using Firebase.
 - Made considerable strides in backend development with Flask and MySQL, though deployment challenges were encountered.
 
+## APK Included
+- An APK file has been included named Valmiki.apk, which showcases our application.
+  
 ## Conclusion
 
 This project represents our commitment to solving real-world problems faced by students in project management and collaboration. Despite the challenges, our progress in app development and backend creation showcases our dedication to innovation and problem-solving. We hope this platform will serve as a valuable tool for students, enhancing their ability to manage and collaborate on projects effectively.
